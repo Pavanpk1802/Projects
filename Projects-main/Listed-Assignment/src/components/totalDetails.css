@@ -1,0 +1,40 @@
+.all-cards{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 4rem;
+    margin-top: 20px;
+}
+.revenue-card{
+    background-color: #DDEFE0;
+    border-radius: 20px;
+    padding: 20px;
+    cursor: pointer;
+}
+.transactions-card{
+    background-color: #F4ECDD;
+    border-radius: 20px;
+    padding: 20px;
+    cursor: pointer;
+}
+.likes-card{
+    background-color: #EFDADA;
+    border-radius: 20px;
+    padding: 20px;
+    cursor: pointer;
+}
+.users-card{
+    background-color: #DEE0EF;
+    border-radius: 20px;
+    padding: 22px;
+    margin-right: 25px;
+    cursor: pointer;
+}
+.title{
+    font-weight: 700;
+    font-size: 14px;
+    margin: 10px 0;
+}
+.title-detail{
+    font-weight: 900;
+    font-size: 24px;
+}

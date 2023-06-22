@@ -1,0 +1,25 @@
+.pie-chart{
+    background-color: white;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-right: 45px;
+    padding: 30px;
+    width: 50%;
+    display: inline-block;
+}
+.information{
+    display: flex;
+    justify-content: space-between;
+}
+.chart-info{
+    height: 200px;
+    display: inline-flex;
+}
+ul{
+    padding: 40px;
+    list-style: none;
+}
+ul li{
+    font-weight: 700;
+}
+

@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat';
+}
+
+.main{
+    background-color: #F5F5F5;
+    height: 100vh;
+    display: flex;
+}
+.right{
+    background-color: black;
+    color: white;
+    width: 40%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#heading{
+    font-size: 60px;
+    
+    font-weight: 900;
+}
+.left{
+    margin: auto;
+    width: 50%;
+}

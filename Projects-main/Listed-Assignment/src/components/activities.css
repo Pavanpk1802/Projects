@@ -1,0 +1,14 @@
+.chart-div{
+    background-color: white;
+    border-radius: 25px;
+    padding: 25px;
+    margin-top: 40px;
+    margin-right: 25px;
+}
+.heading{
+    margin-bottom: 10px;
+}
+#selection {
+    border: none;
+    margin-bottom: 15px;
+}

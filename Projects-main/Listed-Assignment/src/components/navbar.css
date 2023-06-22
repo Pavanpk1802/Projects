@@ -1,0 +1,29 @@
+.navbar{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 50px;
+    width: 100vw;
+    margin: 40px;
+}
+.items{
+   margin-top: 50px;
+   display: grid;
+   grid-template-columns: repeat(2,2rem);
+   cursor: pointer;
+
+}
+.items:hover{
+    font-weight: 900;
+}
+.contact{
+    position: absolute;
+    bottom: 4rem;
+}
+.contact p{
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+.contact p:hover{
+    font-weight: 900;
+}
